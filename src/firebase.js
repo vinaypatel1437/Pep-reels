@@ -9,12 +9,12 @@ import firebase from 'firebase/compat/app';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyADRRldpF6fvwhnFTuaUMFnqyUZaSbqSrs",
-  authDomain: "reels-4e348.firebaseapp.com",
-  projectId: "reels-4e348",
-  storageBucket: "reels-4e348.appspot.com",
-  messagingSenderId: "235875236368",
-  appId: "1:235875236368:web:651a6b8a1433a3af06a895"
+  apiKey: "AIzaSyCRpgLyXa5mt3hRwOIrvJvwYprvMdCd3QQ",
+  authDomain: "insta-reels-278ba.firebaseapp.com",
+  projectId: "insta-reels-278ba",
+  storageBucket: "insta-reels-278ba.appspot.com",
+  messagingSenderId: "420366537881",
+  appId: "1:420366537881:web:c91791dd36a04e3fdc1408"
 };
 
 // Initialize Firebase
